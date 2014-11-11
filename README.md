@@ -4,11 +4,12 @@ Dead simple flask app that takes <60 seconds to install and start a local server
 
 ### Instructions
 
-Edit "data" dictionary in app.py to edit response. The data variable is a python dictionary that gets converted to a response.
+Edit "data" dictionary in `app.py` file to edit response. The data variable is a python dictionary that gets converted to a response.
 
 #### Starting server
 
-python app.py
+    cd fake-the-json
+    python app.py
 
 #### Using service
 
